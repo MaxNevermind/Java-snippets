@@ -10,8 +10,8 @@ public class StringFunctions {
     }
 
 
-    /*
-        Format 123 -> 00123
+    /**
+     * Format 123 -> 00123
      */
     public static void PrintLeadingZeros(int numberToPrint) {
         System.out.println(String.format("%05d", numberToPrint));
