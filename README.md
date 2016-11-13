@@ -4,18 +4,18 @@ This project contains helper and misculeneus classes, also some API usage exampl
 
 ### Contents:
 
-* [FileSystemHelper]
+* [test/FileSystemHelper]
 
-* [TestHelper]
+* [test/TestHelper]
 
-* [StreamApiExamples]
+* [stream/StreamApiExamples]
 
-* [StringFunctions]
-
-
+* [string/StringFunctions]
 
 
-   [FileSystemHelper]: <https://github.com/MaxNevermind/Java-snippets/blob/master/src/main/java/org/maxkons/java_snippets/testing/FileSystemHelper.java>
-   [TestHelper]: <https://github.com/MaxNevermind/Java-snippets/blob/master/src/main/java/org/maxkons/java_snippets/testing/TestHelper.java>
-   [StreamApiExamples]: <https://github.com/MaxNevermind/Java-snippets/blob/master/src/main/java/org/maxkons/java_snippets/streams/StreamApiExamples.java>
+
+
+   [FileSystemHelper]: <https://github.com/MaxNevermind/Java-snippets/blob/master/src/main/java/org/maxkons/java_snippets/test/FileSystemHelper.java>
+   [TestHelper]: <https://github.com/MaxNevermind/Java-snippets/blob/master/src/main/java/org/maxkons/java_snippets/test/TestHelper.java>
+   [StreamApiExamples]: <https://github.com/MaxNevermind/Java-snippets/blob/master/src/main/java/org/maxkons/java_snippets/stream/StreamApiExamples.java>
    [StringFunctions]: <https://github.com/MaxNevermind/Java-snippets/blob/master/src/main/java/org/maxkons/java_snippets/string/StringFunctions.java>

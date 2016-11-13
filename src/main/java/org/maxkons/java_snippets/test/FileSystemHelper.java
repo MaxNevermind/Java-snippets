@@ -1,4 +1,4 @@
-package org.maxkons.java_snippets.testing;
+package org.maxkons.java_snippets.test;
 
 import com.google.common.io.Files;
 import org.junit.Test;

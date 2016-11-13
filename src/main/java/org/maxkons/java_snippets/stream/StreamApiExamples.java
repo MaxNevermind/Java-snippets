@@ -1,4 +1,4 @@
-package org.maxkons.java_snippets.streams;
+package org.maxkons.java_snippets.stream;
 
 
 import scala.Tuple2;
