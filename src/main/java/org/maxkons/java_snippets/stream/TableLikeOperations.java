@@ -11,7 +11,7 @@ import java.util.function.Predicate;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class StreamApiExamples {
+public class TableLikeOperations {
 
     public static List<TableRow> data = new ArrayList<>();
 
