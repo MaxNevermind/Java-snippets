@@ -25,7 +25,8 @@ public class TestHelper {
     }
 
     /**
-     * Call a private method, this method can't work with primitive data type, because of boxing.
+     * Call a private method, this method can't work with primitive data type, because of boxing. 
+     * Use Powermock Whitebox.invokeMethod(...) if you need more functionality.
      */
     public static Object callPrivateMethod(Object objectToUse, String methodToCall, Class[] argsTypes, Object[] args) {
         try {
